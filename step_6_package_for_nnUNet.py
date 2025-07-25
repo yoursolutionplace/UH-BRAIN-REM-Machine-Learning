@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jul 19 22:34:37 2025
 Step 6 - Package data for nnUNet (Fixed JSON formatting)
 @author: Mikhilesh Seepana
 """
