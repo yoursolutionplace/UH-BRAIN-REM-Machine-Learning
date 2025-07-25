@@ -1,43 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jul 22 10:22:25 2025
-
 @author: Mikhilesh Seepana
 """
-
-# import os
-# import numpy as np
-# import nibabel as nib
-# from PIL import Image
-# import matplotlib.pyplot as plt
-
-# # Set paths
-# jpg_image_path = r"C:\Users\Mikhilesh\Desktop\REM Project\Image Analysis\Output\step_2_crop_cropped_images_for_machine_learning\cropped_volume_1\vol1_001.jpg"
-# nii_file_path = r"C:\Users\Mikhilesh\Desktop\REM Project\Image Analysis\Output\step_3_stack_cropped_images_into_3d_volume\volume1.nii.gz"
-
-# # Load .jpg image
-# jpg_image = Image.open(jpg_image_path).convert('L')
-# jpg_array = np.array(jpg_image)
-
-# # Load .nii.gz volume and extract slice 0
-# nii_image = nib.load(nii_file_path)
-# nii_array = nii_image.get_fdata()
-# nii_slice_0 = nii_array[0, :, :] if nii_array.shape[0] == 100 else nii_array[:, :, 0]
-# nii_slice_0 = np.uint8(np.round(nii_slice_0))  # Ensure it's displayable
-
-# # Plot side-by-side
-# fig, axs = plt.subplots(1, 2, figsize=(10, 5))
-# axs[0].imshow(jpg_array, cmap='gray')
-# axs[0].set_title('vol1_001.jpg')
-# axs[0].axis('off')
-
-# axs[1].imshow(nii_slice_0, cmap='gray')
-# axs[1].set_title('Slice 0 from volume1.nii.gz')
-# axs[1].axis('off')
-
-# plt.tight_layout()
-# plt.show()
-
 
 # === USER SETTINGS ===
 jpg_image_path = r"C:\Users\Mikhilesh\Desktop\REM Project\Image Analysis\Output\step_2_crop_cropped_images_for_machine_learning\cropped_volume_1\vol1_096.jpg"
