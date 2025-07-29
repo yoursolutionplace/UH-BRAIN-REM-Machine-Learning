@@ -7,6 +7,6 @@ configuration, and inference. Annotation was conducted in 3D Slicer. The workflo
 volume construction, segmentation, and model training /validation. Final predictions demonstrate strong potential 
 for further biological analysis, visualization, and integration into computer graphics or research workflows. 
  
-Authors:
+Authors:  
 Mikhilesh Seepana https://reu.egr.uh.edu/rem/people/students/seepana-mikhilesh  
 Dr. David Mayerich https://www.ece.uh.edu/faculty/mayerich  
