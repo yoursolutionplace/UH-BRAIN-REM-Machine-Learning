@@ -1,4 +1,4 @@
-Cell Nuclei Segmentation Using nnU-Net Deep Learning Model
+                             Cell Nuclei Segmentation Using nnU-Net Deep Learning Model
 
 This project applies a deep learning approach to segment cell nuclei in grayscale microscopy images using the 
 nnU-Net framework. By integrating biomedical imaging, microscopy, and high-performance computing, we present 
